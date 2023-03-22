@@ -1,0 +1,2 @@
+# Processor-Simulation-Game.-
+It is a console game with scratch GUI to help students and even kids learn how processor works and data transferred between registers and memory and how commands run by the ALU like (ADD,MOV,SHIFT...etc. )  all that in a simple game between two people which take turns to play and the one who will get more points than the other win finally. More details explained widely in project description. The application programed totally with assembly  low level language
